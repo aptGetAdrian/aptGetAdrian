@@ -22,8 +22,9 @@ My name is Adrian Cvetko and I'm a second-year CS student at the Faculty of Elec
 - Mobile fashion app that uses AI to recommend and scout potential good "fits" based on a provided prompt/picture
 - Browser extention to help with filling out a certain type of questionnaire (personal use)
 
-You can contact me through LinkedIn or on my personal website :)
 <!---
+You can contact me through LinkedIn or on my personal website :)
+
 aptGetAdrian/aptGetAdrian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
