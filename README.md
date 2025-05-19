@@ -7,7 +7,7 @@ My name is Adrian Cvetko and I'm a second-year CS student at the Faculty of Elec
 
 - Lead developer on a VR computer assembly application project in high school
 - Learning embedded systems through designing a CNC milling machine
-- Fullstack dev & maintainer of a podcast site for two rising local entrepreneurs **TBA**
+- Fullstack dev & maintainer of a web site for two rising local entrepreneurs **TBA**
 - Project planner and lead developer of Maribor-Busi (a city transportatin simulation web app - TBA)
 
 ### My recent projects:
