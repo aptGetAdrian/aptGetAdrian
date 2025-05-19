@@ -15,7 +15,9 @@ My name is Adrian Cvetko and I'm a second-year CS student at the Faculty of Elec
 - **Basic HTTP server in C** - a HTTP/1.1 server with full GET/POST request functionality, also allowing for concurrent connections
 - **pyTop** - a "pythonic" take on the popular Linux system monitoring tool Top
 - **C-DSA** - a C library for personal use, where I implemented my own takes on the most popular and widely used data structures and algorithms **TBA**
+<!--
 - **Webdividuum** - a fullstack webpage for a local podcast, built using Vue.js and Nuxt **TBA**
+--->
 
 ### My future plans
 
