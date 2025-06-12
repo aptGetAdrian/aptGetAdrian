@@ -22,7 +22,6 @@ My name is Adrian Cvetko and I'm a second-year CS student at the Faculty of Elec
 ### My future plans
 
 - Mobile fashion app that uses AI to recommend and scout potential good "fits" based on a provided prompt/picture
-- Browser extention to help with filling out a certain type of questionnaire (personal use)
 
 <!---
 You can contact me through LinkedIn or on my personal website :)
