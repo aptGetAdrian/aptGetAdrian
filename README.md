@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 
-My name is Adrian Cvetko and I'm a second-year CS student at the Faculty of Electrical Engineering and Computer Science in Maribor.
+My name is Adrian Cvetko and I'm a third-year CS student at the Faculty of Electrical Engineering and Computer Science in Maribor.
 
 
 ### My recent endeavours:
