@@ -1,27 +1,22 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 
-My name is Adrian Cvetko and I'm a third-year CS student at the Faculty of Electrical Engineering and Computer Science in Maribor.
+My name is Adrian Cvetko and I'm a final-year CS student at FERI Maribor.
 
 
-### My recent endeavours:
+### Highlights:
+
+- Fullstack dev & maintainer of a web site for two rising local entrepreneurs (https://individuum-podcast.si/)
+- Project planner and lead developer of M-Busi, a city transportation simulation web app
+- Working with [Timi](https://github.com/tiyfiy) to simplify EU accounting (https://clarolet.com) 
+- **calendarCLI** - A terminal application to quickly interact with your Google calendar
+- **BusiMobile** - A native Android application for real-time public bus tracking in Maribor, Slovenia
+- **Basic HTTP server in C** - a HTTP/1.1 server with full GET/POST request functionality, also allowing for concurrent connections
+- **pyTop** - a "pythonic" take on the popular Linux system monitoring tool Top
+
+### Earlier work
 
 - Lead developer on a VR computer assembly application project in high school
 - Learning embedded systems through designing a CNC milling machine
-- Fullstack dev & maintainer of a web site for two rising local entrepreneurs (https://individuum-podcast.si/)
-- Project planner and lead developer of Maribor-Busi (a city transportatin simulation web app - TBA)
-
-### My recent projects:
-
-- **Basic HTTP server in C** - a HTTP/1.1 server with full GET/POST request functionality, also allowing for concurrent connections
-- **pyTop** - a "pythonic" take on the popular Linux system monitoring tool Top
-- **C-DSA** - a C library for personal use, where I implemented my own takes on the most popular and widely used data structures and algorithms **TBA**
-<!--
-- **Webdividuum** - a fullstack webpage for a local podcast, built using Vue.js and Nuxt **TBA**
---->
-
-### My future plans
-
-- Mobile fashion app that uses AI to recommend and scout potential good "fits" based on a provided prompt/picture
 
 <!---
 You can contact me through LinkedIn or on my personal website :)
